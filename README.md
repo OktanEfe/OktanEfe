@@ -1,5 +1,2 @@
-Hi,I am OktanEfe  
-I am a 3rd year IT engineering student.
-I chose this department because I like to spend time on the computer.
-
-
+Hi, I’m Oktan Efe.
+I am a graduate of Information Systems Engineering from Kocaeli University. I chose this field because of my strong interest in technology and my passion for working with computers. Throughout my education and professional journey, I have developed solid experience in both technical and creative disciplines, and I continue to improve myself by building modern, user-focused web solutions as a freelance web developer.
